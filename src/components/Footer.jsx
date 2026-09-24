@@ -1,6 +1,6 @@
 export default function Footer(){
     return(
-        <footer>
+        <footer className="footer">
             <p>&copy;2026 Nabiru-Dev. All rights reserved.</p>
         </footer>
     );
